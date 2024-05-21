@@ -42,3 +42,16 @@ def product(request, product_slug):
     context = {"product": product}
 
     return render(request, "goods/product.html", context=context)
+
+
+#                         __
+#                       .-1111`~.
+#                     .' _     _ `.
+#                    /  (o)   (o)  \
+#                   :      |        :
+#                  1       ,,         1
+#                  0    _________     0
+#                   \  `.101111.'    /
+#                    1.   \0/      .1
+#                      10._____1-0
+#

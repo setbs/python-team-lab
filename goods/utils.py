@@ -17,3 +17,18 @@ def q_search(query):
         q_objects |= Q(name__icontains=token)
 
     return Products.objects.filter(q_objects)
+
+
+
+
+
+
+
+
+#               /`·.¸
+#              /¸...¸`:·
+#         ¸.·´  ¸   `·.¸.·´)   0 0  02 0  -    з з2 з  01 0 0 0 0 0 1 01 0  
+#         : © ):´;      ¸  {  - -  - - 11   0 0      1 0 1    1 010    0   
+#         `·.¸ `·  ¸.·´\`·¸)   -    - - - 1  01 0   1 1001     - -  -   - -0
+#              `\\\\´´\¸.·´
+#
